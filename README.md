@@ -1,15 +1,15 @@
-### CCN Dragoncraft Reborn!
+# CCN Dragoncraft Reborn!
 
-#  We did not create each mod in this modpack, Credits should go to the ORIGINAL Creator of the current mod!
-
- 
-
-# Please let me make crystal clear this is a aplha version and is a very early stage. we started working on this project about 10 hours ago. we will do our very best to keep this pack up to date and bug free. But please have patience!
- 
+###  We did not create each mod in this modpack, Credits should go to the ORIGINAL Creator of the current mod!
 
  
 
-Dragonborn aims to bring Minecraft´s Original "Survival" experience and adding the "RP" Event to the Game.
+## Please let me make crystal clear this is a aplha version and is a very early stage. we started working on this project about 10 hours ago. we will do our very best to keep this pack up to date and bug free. But please have patience!
+ 
+
+ 
+
+*Dragonborn* aims to bring Minecraft´s Original "Survival" experience and adding the "RP" Event to the Game.
 
 We are trying to create a "Non medieval" but still having mermaids,dragons etc. BUT not limiting it to this.
 we are trying to keep things as vanilla as possible, but still this is custom minecraft for a reason (if you wanna play vanilla open the normal launcher lol)
